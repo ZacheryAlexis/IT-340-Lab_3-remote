@@ -29,3 +29,52 @@ Author: Zachery Alexis <zsa@njit.edu>
 Date:   Fri Sep 19 10:38:15 2025 -0400
 
     first commit
+commit 0e558c2994ccc3e3be2149215ef12bf4103624cb
+Author: Zachery Alexis <zsa@njit.edu>
+Date:   Fri Sep 19 11:22:27 2025 -0400
+
+    adding final changes
+
+commit 55009a4b3bcbcd91097e7af3a80f78b2fa8360f4
+Author: Zachery Alexis <zsa@njit.edu>
+Date:   Fri Sep 19 11:19:52 2025 -0400
+
+    I forgot to copy the other files
+
+commit f9a642b3affdab0d2087bcb6656ddc05133182be
+Author: Zachery Alexis <zsa@njit.edu>
+Date:   Fri Sep 19 11:11:05 2025 -0400
+
+    pushing logs
+
+commit fb4e5f39b4149f5652487ea2b6c8f648b1ca9d73
+Author: Zachery Alexis <zsa@njit.edu>
+Date:   Fri Sep 19 11:06:45 2025 -0400
+
+    Revert "an obvious lie"
+    
+    This reverts commit 46dd79e8d51eb0948276c6d2dba5c228d4816f2b.
+
+commit 46dd79e8d51eb0948276c6d2dba5c228d4816f2b
+Author: Zachery Alexis <zsa@njit.edu>
+Date:   Fri Sep 19 11:06:04 2025 -0400
+
+    an obvious lie
+
+commit 176af4682d1d631b94de6c6c30bd3859c94f964e
+Author: Zachery Alexis <zsa@njit.edu>
+Date:   Fri Sep 19 11:04:17 2025 -0400
+
+    some advice added to os
+
+commit 37f6abb353322ffdafe0fc8d6f114992934cfe39
+Author: Zachery Alexis <zsa@njit.edu>
+Date:   Fri Sep 19 10:41:44 2025 -0400
+
+    os release file
+
+commit db3fb834b47cd1bbd75e92732fc39e57d20b10a4
+Author: Zachery Alexis <zsa@njit.edu>
+Date:   Fri Sep 19 10:38:15 2025 -0400
+
+    first commit
